@@ -1,0 +1,14 @@
+layout_spectrum: 0.1512316
+color:
+  saturation: 0.7501391
+  brandStrength: 0.865285
+  lightness: 0.1107517
+  brandColors:
+    - '#0B0C0E'
+    - '#F2F2F1'
+    - '#5B706D'
+    - '#91A39A'
+    - '#BCC5BD'
+  rhythmicContrast: 0.4780815
+typography_spectrum: 0.03060309
+name: vidastech
