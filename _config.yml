@@ -1,7 +1,7 @@
 name: vidastech
 favicon: null
-layout_spectrum: 0.74594
-typography_spectrum: 0.03060309
+layout_spectrum: 0
+typography_spectrum: 0.86033
 title: 'Share our creative works & event'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#91A39A'
     - '#BCC5BD'
   brandStrength: 0
-  lightness: 0.1107517
-  saturation: 0.7501391
-  rhythmicContrast: 0.4780815
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
