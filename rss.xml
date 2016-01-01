@@ -4,8 +4,15 @@
         <description><![CDATA[Share our creative works & event]]></description>
         <link>https://thegrid.ai/vidastech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 17:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2016 17:11:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vidastech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ART WORK]]></title>
+            <description><![CDATA[<article><h1>ART WORK</h1><p>Working with artist for promote our event.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb4305e315a38f1add5971c0d4efcfe92130dd55.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vidastech/art-work/index.html</link>
+            <guid isPermaLink="false">9dea332a-08a9-43d5-b046-14e5890902b9</guid>
+            <pubDate>Fri, 01 Jan 2016 17:11:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[METAL WORKS]]></title>
             <description><![CDATA[<article><h1>METAL WORKS</h1><p>Designing coffee tamper and tools</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34b6719d19d2023c522092857ab589c757edeef2.jpg"></article>]]></description>
