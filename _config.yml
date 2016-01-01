@@ -1,14 +1,29 @@
+name: vidastech
+favicon: null
 layout_spectrum: 0.1512316
+typography_spectrum: 0.03060309
+title: 'Share our creative works & event'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7501391
-  brandStrength: 0.865285
-  lightness: 0.1107517
   brandColors:
     - '#0B0C0E'
     - '#F2F2F1'
     - '#5B706D'
     - '#91A39A'
     - '#BCC5BD'
+  brandStrength: 0.865285
+  lightness: 0.1107517
+  saturation: 0.7501391
   rhythmicContrast: 0.4780815
-typography_spectrum: 0.03060309
-name: vidastech
+purpose: []
