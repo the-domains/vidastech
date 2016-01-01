@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[vidastech]]></title>
-        <description><![CDATA[vidastech]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Share our creative works & event]]></title>
+        <description><![CDATA[Share our creative works & event]]></description>
+        <link>https://thegrid.ai/vidastech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 16:42:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 16:58:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vidastech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HEXAGON : THE FIRST ESPRESSO MACHINE ]]></title>
+            <description><![CDATA[<article><h1>HEXAGON : THE FIRST ESPRESSO MACHINE </h1><p>HEXAGON is our first espresso machine for commercial cafe.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bd87c97569cbbb7cbb914cdb7e8ee7323a5bfb4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vidastech/hexagon-the-first-espresso-machine/index.html</link>
+            <guid isPermaLink="false">2b006845-c5c1-414d-9b7c-e549671d0e02</guid>
+            <pubDate>Fri, 01 Jan 2016 16:58:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[THE COLLECTION]]></title>
             <description><![CDATA[<article><h1>THE COLLECTION</h1><p>8 Coffees, 8 Roasters, One Incredible Gift Box From Seoul</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ad96c96da2458f28d3e6b6efda10924d9991536.jpg"></article>]]></description>
-            <link>undefinedthe-collection/index.html</link>
+            <link>https://thegrid.ai/vidastech/the-collection/index.html</link>
             <guid isPermaLink="false">975806f2-0de0-449f-b231-472de62b361a</guid>
             <pubDate>Fri, 01 Jan 2016 16:42:42 GMT</pubDate>
         </item>
